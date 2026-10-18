@@ -51,9 +51,13 @@ No goto. No arrays. No functions other than main. If a loop never ends, stop the
 - Discussions (every week): first post Friday, replies Sunday
 - Late: course policy (−10%/day unless stated otherwise)
 
-## Rubric
+## Rubric (100)
 
-Graded on: it runs, it meets the prompt, output is labeled, and the GitHub repo plus demo video are there.
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Getting started
 
